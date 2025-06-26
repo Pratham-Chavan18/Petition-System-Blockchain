@@ -7,7 +7,7 @@ A decentralized petition management system built using **Solidity**, **Ethereum*
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Website
 
 🔗 [https://decentralizeit.vercel.app/](https://decentralizeit.vercel.app/)
 
@@ -29,7 +29,7 @@ A decentralized petition management system built using **Solidity**, **Ethereum*
 |--------------|--------------------------------|
 | Smart Contract | Solidity, Ethereum, Remix IDE    |
 | Frontend     | React.js, Web3.js              |
-| Deployment   | Vercel, GitHub Pages           |
+| Deployment   | Vercel         |
 | Wallet       | MetaMask                       |
 
 ---
