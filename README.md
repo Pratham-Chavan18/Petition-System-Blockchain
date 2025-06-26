@@ -27,7 +27,7 @@ A decentralized petition management system built using **Solidity**, **Ethereum*
 
 | Layer        | Technology                     |
 |--------------|--------------------------------|
-| Smart Contract | Solidity, Ethereum, Remix     |
+| Smart Contract | Solidity, Ethereum, Remix IDE    |
 | Frontend     | React.js, Web3.js              |
 | Deployment   | Vercel, GitHub Pages           |
 | Wallet       | MetaMask                       |
@@ -38,7 +38,13 @@ A decentralized petition management system built using **Solidity**, **Ethereum*
 
 - Node.js
 - MetaMask extension
-- Ganache (optional for local testing)
+- Ganache
+- truffle
+  
+### 📄 Smart Contract 
+Written in Solidity
+Deployed on Ethereum-compatible network
+Use Remix IDE or Truffle to deploy and test locally
 
 ### Installation
 
@@ -48,16 +54,7 @@ cd Petition-System-Blockchain
 npm install
 npm start
 
-### 📄 Smart Contract
-Written in Solidity
-Deployed on Ethereum-compatible network
-Use Remix IDE or Truffle to deploy and test locally
 
-### 💡 Future Enhancements
-✅ User authentication
-✅ Pagination of petitions
-🔄 Voting mechanism
-📊 Dashboard for petition stats
 
 
 
