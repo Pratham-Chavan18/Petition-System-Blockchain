@@ -3,7 +3,6 @@
 A decentralized petition management system built using **Solidity**, **Ethereum**, and **React**, designed to ensure transparency, security, and immutability for online petitions.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Site-Vercel-blue)](https://decentralizeit.vercel.app/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
