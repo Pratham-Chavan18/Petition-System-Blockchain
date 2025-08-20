@@ -52,8 +52,3 @@ git clone https://github.com/Pratham-Chavan18/Petition-System-Blockchain.git
 cd Petition-System-Blockchain
 npm install
 npm start
-
-
-
-
-
