@@ -1,4 +1,7 @@
 # 🗳️ DecentralizeIt - Petition System on Blockchain
+In a world where online petitions can influence social and political change, the integrity of these platforms is paramount. Traditional petition systems are centralized, making them vulnerable to censorship, data manipulation, and lack of transparency.
+
+DecentralizeIt solves these problems by building the petition system on the Ethereum blockchain. Every petition created and every signature collected is recorded as a transaction on the blockchain, creating a permanent and unchangeable record. This ensures that all data is transparent, auditable, and resistant to censorship.
 
 A decentralized petition management system built using **Solidity**, **Ethereum**, and **React**, designed to ensure transparency, security, and immutability for online petitions.
 
@@ -14,49 +17,6 @@ A decentralized petition management system built using **Solidity**, **Ethereum*
 
 ## 📌 Features
 
-- 📜 **Create Petitions** – Allow users to submit new petitions.
-- ✍️ **Sign Petitions** – Users can sign petitions directly on the blockchain.
-- 🔐 **Immutable Records** – Petitions and signers are stored securely and immutably.
-- 🔍 **View All Petitions** – Display and browse all active petitions.
-- 🌐 **Decentralized Architecture** – Powered by smart contracts on Ethereum.
-
----
-
-## 🛠️ Tech Stack
-
-| Layer        | Technology                     |
-|--------------|--------------------------------|
-| Smart Contract | Solidity, Ethereum, Remix IDE    |
-| Frontend     | React.js, Web3.js              |
-| Deployment   | Vercel         |
-| Wallet       | MetaMask                       |
-
----
-
-### Prerequisites
-
-- Node.js
-- MetaMask extension
-- Ganache
-- truffle
-  
-### 📄 Smart Contract 
-Written in Solidity
-Deployed on Ethereum-compatible network
-Use Remix IDE or Truffle to deploy and test locally
-
-### Installation
-DecentralizeIt: A Blockchain-Powered Petition System
-DecentralizeIt is a modern, decentralized petition platform that leverages the power of blockchain technology to ensure transparency, security, and immutability in online petitions. Built with Solidity, Ethereum, and React, this project aims to create a trustworthy environment for social advocacy and activism.
-
-Live Demo: https://decentralizeit.vercel.app/
-
-📜 Project Overview
-In a world where online petitions can influence social and political change, the integrity of these platforms is paramount. Traditional petition systems are centralized, making them vulnerable to censorship, data manipulation, and lack of transparency.
-
-DecentralizeIt solves these problems by building the petition system on the Ethereum blockchain. Every petition created and every signature collected is recorded as a transaction on the blockchain, creating a permanent and unchangeable record. This ensures that all data is transparent, auditable, and resistant to censorship.
-
-✨ Key Features
 Create Petitions: Anyone can create a new petition, which will be stored as a smart contract on the blockchain.
 
 Sign Petitions: Users can sign petitions with their unique Ethereum wallet address, ensuring that each signature is authentic and verifiable.
@@ -69,8 +29,18 @@ Decentralized: The platform is not controlled by any single entity, making it re
 
 User-friendly Interface: A clean and intuitive user interface built with React makes it easy for users to create and sign petitions.
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
+
 This project is built with a modern, full-stack decentralized application architecture:
+
+| Layer        | Technology                     |
+|--------------|--------------------------------|
+| Smart Contract | Solidity, Ethereum, Remix IDE    |
+| Frontend     | React.js, Web3.js              |
+| Deployment   | Vercel         |
+| Wallet       | MetaMask                       |
 
 Category	Technology	Description
 Blockchain	Solidity, Ethereum	For creating the smart contracts and the backend
@@ -81,11 +51,19 @@ Development	Truffle, Ganache	For local blockchain development and testing
 Deployment	Vercel	For hosting the frontend application
 Wallet	MetaMask	For user authentication and signing transactions
 
-Export to Sheets
-🚀 Getting Started
-To get a local copy of this project up and running, follow these simple steps.
+---
+  
+### 📄 Smart Contract 
+Written in Solidity
+Deployed on Ethereum-compatible network
+Use Remix IDE or Truffle to deploy and test locally
 
-Prerequisites
+### Installation
+DecentralizeIt: A Blockchain-Powered Petition System
+DecentralizeIt is a modern, decentralized petition platform that leverages the power of blockchain technology to ensure transparency, security, and immutability in online petitions. Built with Solidity, Ethereum, and React, this project aims to create a trustworthy environment for social advocacy and activism.
+
+### Prerequisites
+
 Make sure you have the following installed on your local machine:
 
 Node.js (v18.x or higher)
@@ -139,8 +117,7 @@ Run the development server:
 
 Bash
 
-pnpm dev
-# or
+pnpm dev or
 npm run dev
 Open http://localhost:3000 in your browser to see the application.
 
