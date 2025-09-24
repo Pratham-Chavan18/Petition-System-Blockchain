@@ -87,7 +87,7 @@ Sign a Petition: Browse existing petitions and click the "Sign" button. This als
 View Petitions: You can view all petitions created on the platform
 
 📂 Project Structure
-
+```bash
 /
 ├── app/                # Main application source code
 ├── components/         # Reusable React components
@@ -96,3 +96,5 @@ View Petitions: You can view all petitions created on the platform
 ├── test/               # Test files for smart contracts
 ├── truffle-config.js   # Truffle configuration
 └── ...                 # Other configuration files
+```
+
